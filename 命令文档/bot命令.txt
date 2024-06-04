@@ -1,0 +1,5 @@
+cd %USERPROFILE%\Desktop\一体化脚本运行工具
+
+.\venv\Scripts\activate
+
+python XIAO_bot.py

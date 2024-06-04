@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>游戏机器人</title>
+</head>
+<body>
+    <h1>欢迎使用游戏机器人</h1>
+</body>
+</html>
